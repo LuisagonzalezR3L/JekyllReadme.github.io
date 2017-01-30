@@ -5,7 +5,7 @@ tags:
 ---
 # README #
 
-This project is intended to allow new devs to learn how to use git and pull request methodology.
+This project is intended to allow new devs to learn how to use git and pull request methodology. 
 
 ## Pull request ##
 
